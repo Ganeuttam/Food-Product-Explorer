@@ -1,0 +1,15 @@
+Food Product Explorer setup
+
+1. Open this folder in VS Code.
+2. Run: npm install
+3. Run: npm run dev
+4. Open the localhost URL shown by Vite.
+
+Important:
+DummyJSON's /products endpoint contains many kinds of products.
+This project filters the response to category "groceries", so the
+application displays food/grocery products only.
+
+Checks:
+npm run lint
+npm run build
